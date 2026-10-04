@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>SleepGuard</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.sleepguard.app</string>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>SleepGuard uses Bluetooth to connect to the sleep monitoring bracelet.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>SleepGuard may use the microphone for sleep sound and snoring analysis.</string>
+</dict>
+</plist>
